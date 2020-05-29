@@ -3,9 +3,7 @@ cachetools
 pytest
 pytest-xdist
 ipython
-matplotlib
 pylint
 randomgen==1.16.4
-vtk==8.1.2
 pkgconfig
 cached_property

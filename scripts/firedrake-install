@@ -1411,6 +1411,7 @@ if mode == "install":
         build_and_install_h5py()
         build_and_install_libspatialindex()
         build_and_install_libsupermesh()
+        build_and_install_vtk()
 
         if "loopy" in packages:
             # We do want to install loopy's dependencies.
